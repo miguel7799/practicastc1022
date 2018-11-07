@@ -2,3 +2,11 @@ Esta es mi tarea hecha en el repositorio local
 bla bla bla bla bla bla
 ahora si hice modificaciones sobre el repositorio local
 
+
+
+
+
+#######################
+Esta es la modificacion remota de mi tarea10
+
+
