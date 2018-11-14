@@ -1,0 +1,283 @@
+commit 218f990d8cd81720f54f82a5e1ecdf3d83333d64
+Merge: 0c9ca60 bc7d3d5
+Author: miguel7799 <A01022398@itesm.mx>
+Date:   Wed Nov 7 11:26:41 2018 -0600
+
+    Merge branch 'master' of https://github.com/miguel7799/practicastc1022
+    
+    sajasjfklsdafjlaksf
+
+commit 0c9ca601e878f561a6a6967ab9f371423dfb2709
+Author: miguel7799 <A01022398@itesm.mx>
+Date:   Wed Nov 7 11:25:51 2018 -0600
+
+    accctualizacion local
+
+commit bc7d3d56d1031a374816d5cfd883f1a5621b9699
+Author: miguel7799 <42215165+miguel7799@users.noreply.github.com>
+Date:   Wed Nov 7 11:24:53 2018 -0600
+
+    Update tarea10.txt
+    
+    modificacion remota de tarea10
+
+commit d4ae6ac9efe427088182ec7950e811f65b6ba4bf
+Merge: 39166fc 461ee2f
+Author: miguel7799 <A01022398@itesm.mx>
+Date:   Wed Nov 7 11:13:49 2018 -0600
+
+    Merge branch 'master' of https://github.com/miguel7799/practicastc1022
+    
+    Este merge es para combinar tarea10 local con tarea11 remota
+
+commit 461ee2f528eb635a0b2f15e1ba1ebcee9eacc9fe
+Author: miguel7799 <42215165+miguel7799@users.noreply.github.com>
+Date:   Wed Nov 7 11:12:52 2018 -0600
+
+    Create tarea11.txt
+    
+    subí mi tarea en el repositorio remoto
+
+commit 39166fc53b46f4e692fb323b73e917a0b99720d0
+Author: miguel7799 <A01022398@itesm.mx>
+Date:   Wed Nov 7 11:10:54 2018 -0600
+
+    tarea local
+
+commit b91fd5f9e5475af0f0c06c6ff1f3a65fbf051295
+Author: miguel7799 <42215165+miguel7799@users.noreply.github.com>
+Date:   Fri Oct 26 20:00:29 2018 -0500
+
+    Add files via upload
+    
+    Programa del número natural perfecto
+
+commit 7755cac27fb2251eee00605d20f2fde2b6a5ae80
+Author: miguel7799 <42215165+miguel7799@users.noreply.github.com>
+Date:   Fri Oct 26 19:59:56 2018 -0500
+
+    Add files via upload
+    
+    Programa de año bisiesto
+
+commit 33386de9e722067b4a93b910791fbc41a9bff2e7
+Author: miguel7799 <42215165+miguel7799@users.noreply.github.com>
+Date:   Fri Oct 26 14:15:08 2018 -0500
+
+    Add files via upload
+    
+    Screenshots de la paractica de Git
+
+commit 7ad1bd920b33b74ce950b0f9cdf7ca88cdaade48
+Author: miguel7799 <A01022398@itesm.mx>
+Date:   Fri Oct 26 13:49:13 2018 -0500
+
+    exportar archivos cifrados
+
+commit 6923eaf7c9f8e6fecfac75633bc6595332e679e8
+Author: miguel7799 <42215165+miguel7799@users.noreply.github.com>
+Date:   Fri Oct 26 13:37:49 2018 -0500
+
+    Add files via upload
+    
+    Llave publica del profesor
+
+commit 02f6f12ea226d09b916ca08ac5590e360562279e
+Author: miguel7799 <A01022398@itesm.mx>
+Date:   Fri Oct 26 13:25:19 2018 -0500
+
+    creo que ya se resolvio
+
+commit 35e866e184117a448bed44e61e7a04d42b453c65
+Author: miguel7799 <42215165+miguel7799@users.noreply.github.com>
+Date:   Fri Oct 26 13:08:43 2018 -0500
+
+    Add files via upload
+    
+    Platica del evento de CISCO
+
+commit c9bb5a27abc75b4849c68ec61f6cb8dd30b3e063
+Author: miguel7799 <42215165+miguel7799@users.noreply.github.com>
+Date:   Fri Oct 26 13:08:13 2018 -0500
+
+    Add files via upload
+    
+    Tarea de la platica de Deloitte
+
+commit ab78dae3a741361139eebbc94eb4c9b8197977c9
+Author: miguel7799 <42215165+miguel7799@users.noreply.github.com>
+Date:   Fri Oct 26 13:07:29 2018 -0500
+
+    Add files via upload
+    
+    Tarea de la platica de Facebook
+
+commit 8512632fcf1fd2c522e846012332d8d39f441d33
+Author: miguel7799 <42215165+miguel7799@users.noreply.github.com>
+Date:   Fri Oct 26 13:06:33 2018 -0500
+
+    Add files via upload
+    
+    Tarea de la Platica de Drink IQ
+
+commit 9cd9cda97e1b29197817425cf3bd58a5f16611b7
+Author: miguel7799 <42215165+miguel7799@users.noreply.github.com>
+Date:   Fri Oct 26 12:43:47 2018 -0500
+
+    Delete A01022398MyPublicKey.gpg
+
+commit 365779008bb91d50de59be037f92ddf5b6d97761
+Author: miguel7799 <42215165+miguel7799@users.noreply.github.com>
+Date:   Fri Oct 26 12:43:36 2018 -0500
+
+    Delete MikemyPrivateKey.gpg
+
+commit 2aced13fe93bfa9d8c52ce623ead6627c560caa2
+Author: miguel7799 <42215165+miguel7799@users.noreply.github.com>
+Date:   Fri Oct 26 12:43:27 2018 -0500
+
+    Delete README.md
+
+commit 1e1aed2a8d8cece799c27a8391d21fe0cd146256
+Author: miguel7799 <42215165+miguel7799@users.noreply.github.com>
+Date:   Fri Oct 26 12:43:19 2018 -0500
+
+    Delete T1.1PlaticaDrinkIQ.docx
+
+commit 964288fe3b720ddac2bbc718dbf2555d9dea00f1
+Author: miguel7799 <42215165+miguel7799@users.noreply.github.com>
+Date:   Fri Oct 26 12:43:10 2018 -0500
+
+    Delete T3.1VisitaFcebook.docx
+
+commit 2640e250353edb29731532499f15c65ec9e96474
+Author: miguel7799 <42215165+miguel7799@users.noreply.github.com>
+Date:   Fri Oct 26 12:43:01 2018 -0500
+
+    Delete T4.1PlaticaDeloitte.docx
+
+commit 0e45d9204c66bfacc97514e5adaa3a28dcfd11c9
+Author: miguel7799 <42215165+miguel7799@users.noreply.github.com>
+Date:   Fri Oct 26 12:42:53 2018 -0500
+
+    Delete T5.2EventoCISCODAYciberseguridad.docx
+
+commit 485b5cabad9e94d4c370c7d03a0191c6c49d844d
+Author: miguel7799 <42215165+miguel7799@users.noreply.github.com>
+Date:   Fri Oct 26 12:42:45 2018 -0500
+
+    Delete myPublicKey.gpg
+
+commit ce4b7c46d412dcba22114eaae371540fe9ea8f8d
+Author: miguel7799 <42215165+miguel7799@users.noreply.github.com>
+Date:   Fri Oct 26 12:42:34 2018 -0500
+
+    Delete publicKeyProfAriel.gpg
+
+commit edb24a21e95cf2c38e7ac120dfe5c07de991447d
+Author: miguel7799 <42215165+miguel7799@users.noreply.github.com>
+Date:   Wed Oct 24 11:59:26 2018 -0500
+
+    Add files via upload
+    
+    Tarea de la platica de CISCO ciderseguridad
+
+commit e0fd8f13aa35fab88692b3fd0cbc941155535fae
+Author: miguel7799 <42215165+miguel7799@users.noreply.github.com>
+Date:   Wed Oct 24 11:59:01 2018 -0500
+
+    Add files via upload
+    
+    Tarea de la platica de Deloitte
+
+commit 76402a1f44c496ae8290c93b1dda37ed3732a3bf
+Author: miguel7799 <42215165+miguel7799@users.noreply.github.com>
+Date:   Wed Oct 24 11:58:38 2018 -0500
+
+    Add files via upload
+    
+    Tarea de la platica de Facebook
+
+commit ff3b399c9801730c78ad046c67b0f2e9d6569e87
+Author: miguel7799 <42215165+miguel7799@users.noreply.github.com>
+Date:   Wed Oct 24 11:58:02 2018 -0500
+
+    Add files via upload
+    
+    Tarea de la platica de Drink IQ
+
+commit 72a31a6d70ffbbc3582546ba5dc2058f5d0f0e28
+Author: miguel7799 <42215165+miguel7799@users.noreply.github.com>
+Date:   Wed Oct 24 11:57:24 2018 -0500
+
+    Delete T4.1 Platica Deloitte.docx
+
+commit 523a23ed5e8d42f3964b5a70d09e330f32ddf812
+Author: miguel7799 <42215165+miguel7799@users.noreply.github.com>
+Date:   Wed Oct 24 11:57:14 2018 -0500
+
+    Delete T1.1 Platica Drink IQ.docx
+
+commit 259e7e539e3178d7af32fb1ce23e9e74d19c7dac
+Author: miguel7799 <42215165+miguel7799@users.noreply.github.com>
+Date:   Wed Oct 24 11:57:04 2018 -0500
+
+    Delete T5.2 Evento CISCO DAY ciberseguridad.docx
+
+commit 3e7d5bc79df7ab738fa2e1bee07dd9d6720a2f3c
+Author: miguel7799 <42215165+miguel7799@users.noreply.github.com>
+Date:   Wed Oct 24 11:56:51 2018 -0500
+
+    Delete T3.1 Visita Fcebook.docx
+
+commit 48ff0020dacb3faeb8a37d25ed1003728fc54c0a
+Author: miguel7799 <42215165+miguel7799@users.noreply.github.com>
+Date:   Wed Oct 24 11:46:12 2018 -0500
+
+    Add files via upload
+    
+    llave publica de Profesor
+
+commit 41583b41c257d2bf7034834612498525c6e3b877
+Author: miguel7799 <42215165+miguel7799@users.noreply.github.com>
+Date:   Wed Oct 24 11:42:32 2018 -0500
+
+    Add files via upload
+    
+    Tarea de la platica de CISCO
+
+commit 21115f68ed87761145002022f966e431a0f8cbee
+Author: miguel7799 <42215165+miguel7799@users.noreply.github.com>
+Date:   Wed Oct 24 11:41:41 2018 -0500
+
+    Add files via upload
+    
+    Tarea de la platica de Deloitte
+
+commit 9a12ba2171eb7dcee24387d770127b6d8d8442e9
+Author: miguel7799 <42215165+miguel7799@users.noreply.github.com>
+Date:   Wed Oct 24 11:40:59 2018 -0500
+
+    Add files via upload
+    
+    Tarea de platica de Facebook
+
+commit 9dc32448803ac017f0ebefa0c4afec180a596c4f
+Author: miguel7799 <42215165+miguel7799@users.noreply.github.com>
+Date:   Wed Oct 24 11:40:09 2018 -0500
+
+    Add files via upload
+    
+    Tarea Plática Drink IQ
+
+commit c1a4d12c4482b347e0916a21f8a1f1599f9366c5
+Author: miguel7799 <A01022398@itesm.mx>
+Date:   Wed Oct 24 10:44:45 2018 -0500
+
+    exportar llaves públicas y privadas
+
+commit 123dcd5d46c3e4cb830e0981b0d41f3a5ebf3081
+Author: miguel7799 <A01022398@itesm.mx>
+Date:   Wed Oct 10 12:36:06 2018 -0500
+
+    primer commit
